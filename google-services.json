@@ -1,27 +1,35 @@
 {
   "project_info": {
-    "project_number": "135410321404",
-    "firebase_url": "https://sdc-cards.firebaseio.com",
-    "project_id": "sdc-cards",
-    "storage_bucket": "sdc-cards.appspot.com"
+    "project_number": "388186583458",
+    "firebase_url": "https://chef-bc244.firebaseio.com",
+    "project_id": "chef-bc244",
+    "storage_bucket": "chef-bc244.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:135410321404:android:f9dff1d936f1b5c5",
+        "mobilesdk_app_id": "1:388186583458:android:bf564f1e131ae56c",
         "android_client_info": {
-          "package_name": "com.dl.sdccards"
+          "package_name": "com.digitallines.chef"
         }
       },
       "oauth_client": [
         {
-          "client_id": "135410321404-r635mvvkd78tvd5p9a8dbtgv9lek92s2.apps.googleusercontent.com",
+          "client_id": "388186583458-ln37gbspupd9o7q6modso57q0acmatsa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.digitallines.chef",
+            "certificate_hash": "ea425c783ce0a4e8a34bf0ab30b4215e6cc07569"
+          }
+        },
+        {
+          "client_id": "388186583458-oo2brahqg5t5b717dj5csfojdkjd7jhn.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyC_W3kAcySDRcd6bY4Sp3-JSSVKt2xX3Mo"
+          "current_key": "AIzaSyBu5N4PsJ3YnV9HMwK0a7qU-SYBj92AmA4"
         }
       ],
       "services": {
@@ -29,8 +37,13 @@
           "status": 1
         },
         "appinvite_service": {
-          "status": 1,
-          "other_platform_oauth_client": []
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "388186583458-oo2brahqg5t5b717dj5csfojdkjd7jhn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         },
         "ads_service": {
           "status": 2
